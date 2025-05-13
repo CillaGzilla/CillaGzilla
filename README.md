@@ -1,5 +1,13 @@
-## Hi there 👋
+## Priscilla Gomez * Data Analyst Portfolio
+I’m currently a full-time Data Science student at the University of Phoenix and work full-time as a billing coordinator. I’m passionate about turning raw data into meaningful insights that help solve real-world problems—especially in the areas of health, education, and business.
 
+I'm building my skills in Python, SQL, Excel, and Tableau, and love working on projects that explore real questions through analysis and visualization. I enjoy asking thoughtful questions, uncovering patterns, and telling compelling stories with data.
+
+Outside of work and school, I’m a proud mom of two amazing boys who keep me motivated, grounded, and inspired every day. Balancing life, career, and learning isn't always easy, but it’s worth it when you're driven by purpose and family.
+
+Here you will find my portfolio projects where I practice: -Data cleaning and transformation -Exploratory data analysis (EDA) -Building dashboards and visual reports -Communicating insights clearly
+
+I'm always learning and open to collaboration!
 <!--
 **CillaGzilla/CillaGzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
